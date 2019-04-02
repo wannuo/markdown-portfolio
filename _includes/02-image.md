@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![cute cat](https://data.whicdn.com/images/298844185/large.jpg?t=1507433077)
